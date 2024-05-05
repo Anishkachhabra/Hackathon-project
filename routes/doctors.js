@@ -25,5 +25,5 @@ router.get('/', async (req, res) => {
 });
 
 // Add more routes for updating, deleting doctors, and other CRUD operations.
-
+// got data with the help of AI
 module.exports = router;
